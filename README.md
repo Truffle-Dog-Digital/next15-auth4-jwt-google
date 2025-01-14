@@ -1,4 +1,4 @@
-# Working auth flow for next, auth, jwt, google
+# Working google auth flow for next, next-auth using JWT strategy for sessions
 
 Default next.js v15 with auth v4, app router etc.
 * configure a GCP project with the necessary test users or internal setup
